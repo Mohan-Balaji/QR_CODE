@@ -1,4 +1,5 @@
 **Simple QR_Code project**
+
 **Packages Used **
 1.Inquirer.js 
 2.qr-image 
