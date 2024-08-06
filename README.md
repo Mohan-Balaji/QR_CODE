@@ -1,7 +1,7 @@
-Simple QR_Code project
-Packages Used 
-1.Inquirer.js (https://github.com/SBoudrias/Inquirer.js/blob/main/packages/inquirer/README.md)
-2.qr-image  (https://github.com/alexeyten/qr-image)
+**Simple QR_Code project**
+**Packages Used **
+1.Inquirer.js 
+2.qr-image 
 
 //Installation Commands 
 1.npm install 
